@@ -1,14 +1,62 @@
-# Portfólio de Projetos - Fatec Americana #
+# fatec-ads
 
-## Objetivo do Repositório ##
-Documentar e organizar os projetos práticos e exercícios realizados ao longo do curso, demonstrando meu aprendizado em tecnologias como **HTML**, **CSS**, **JavaScript**, **Python**, **C**, entre outras. Aqui, você encontrará desde tarefas simples até projetos mais complexos, refletindo minha evolução como desenvolvedor.
+Repositório com atividades, projetos e exercícios do curso **CST em Análise e Desenvolvimento de Sistemas** — FATEC Americana.
 
-## Estrutura do Repositório ##
-- **/atividades**: Exercícios práticos das disciplinas do curso.
-- **/projetos**: Projetos maiores, como sites, APIs ou sistemas completos.
-- **/docs**: Documentação adicional, como diagramas ou relatórios.
+![FATEC](https://img.shields.io/badge/FATEC-Americana-0F6E56?style=flat-square)
+![Curso](https://img.shields.io/badge/Curso-ADS-378ADD?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-EF9F27?style=flat-square)
 
-## Tecnologias Utilizadas ##
-- **Linguagens**: C, Python, JavaScript, HTML, CSS
-- **Ferramentas**: Git, GitHub, VS Code, CodeBlock, Android Studio, Replit.
-- **Outros**: APIs REST, bancos de dados relacionais (futuramente)
+---
+
+## Estrutura
+
+```
+fatec-ads/
+├── semestre-1/
+├── semestre-2/
+├── semestre-3/
+└── semestre-4/
+    ├── estrutura-de-dados/
+    │   ├── atividade-01-digito-cpf/
+    │   ├── atividade-02-busca-vetor/
+    │   ├── atividade-03-simulado-ponteiros/
+    │   ├── atividade-04-sistema-vendas-filiais/
+    │   └── projeto-01-controle-estoque/
+    └── mobile/
+        └── projeto-02-dog-adoption-app/
+```
+
+---
+
+## Semestre IV — 1º/2026
+
+### Estrutura de Dados (C)
+
+| # | Atividade | Conceitos |
+|---|-----------|-----------|
+| 01 | [Dígito verificador do CPF](semestre-4/estrutura-de-dados/atividade-01-digito-cpf/) | Vetores, aritmética modular |
+| 02 | [Busca em vetor de nomes](semestre-4/estrutura-de-dados/atividade-02-busca-vetor/) | Vetores, busca linear |
+| 03 | [Simulado — ponteiros e listas](semestre-4/estrutura-de-dados/atividade-03-simulado-ponteiros/) | Ponteiros, lista simplesmente e duplamente encadeada |
+| 04 | [Sistema de vendas multi-filiais](semestre-4/estrutura-de-dados/atividade-04-sistema-vendas-filiais/) | Matrizes, structs, arquivos |
+
+### Projetos
+
+| # | Projeto | Linguagem | Status |
+|---|---------|-----------|--------|
+| 01 | [Controle de Estoque](semestre-4/estrutura-de-dados/projeto-01-controle-estoque/) | C | Concluído |
+| 02 | [Dog Adoption App](https://github.com/mjaoudat/dog-adoption-app) | Kotlin | Em desenvolvimento |
+
+---
+
+## Tecnologias
+
+`C` `Kotlin` `Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
+
+**Ferramentas:** VS Code · Android Studio · Code::Blocks · Git
+
+---
+
+## Autor
+
+**Murilo Jaoudat da Silva Teixeira** · RA 0040482421039  
+[LinkedIn](https://br.linkedin.com/in/murilo-jaoudat-310091329) · [GitHub](https://github.com/mjaoudat)
