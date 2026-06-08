@@ -15,8 +15,8 @@ fatec-ads/
 ├── semestre-1/
 ├── semestre-2/
 ├── semestre-3/
-└── semestre-4/
-└── semestre-5/
+├── semestre-4/
+├── semestre-5/
 └── semestre-6/
     
 ```
