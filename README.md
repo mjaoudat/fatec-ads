@@ -16,14 +16,9 @@ fatec-ads/
 ├── semestre-2/
 ├── semestre-3/
 └── semestre-4/
-    ├── estrutura-de-dados/
-    │   ├── atividade-01-digito-cpf/
-    │   ├── atividade-02-busca-vetor/
-    │   ├── atividade-03-simulado-ponteiros/
-    │   ├── atividade-04-sistema-vendas-filiais/
-    │   └── projeto-01-controle-estoque/
-    └── mobile/
-        └── projeto-02-dog-adoption-app/
+└── semestre-5/
+└── semestre-6/
+    
 ```
 
 ---
